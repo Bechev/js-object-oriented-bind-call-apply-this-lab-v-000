@@ -4,14 +4,14 @@ const justInvoke = function(fn){
 }
 
 function setThisWithCall(fn, thisValue, arg){
-  
+
 }
 
 
-setThisWithApply(fn, thisValue, args){
-  
+function setThisWithApply(fn, thisValue, args){
+
 }
 
 function returnNewFunctionOf(functionToBeCopied, thisValue){
-  
+
 }
